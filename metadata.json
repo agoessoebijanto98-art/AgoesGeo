@@ -1,0 +1,8 @@
+{
+  "name": "Assist_Aassesment CBT — Sistem Ujian Online GAS & Google Sheets",
+  "description": "Aplikasi web ujian online (Computer Based Test) lengkap berbasis Google Apps Script dan Google Sheets dengan fitur pengawasan real-time, keamanan ujian, bank soal, dan ekspor kode GAS siap deploy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
